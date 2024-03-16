@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  width: 100%;
+  height: 100vh;
+}
+.deck {
+  position: relative;
+  left: 1rem;
+  top: 2rem;
+}
+.card {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
